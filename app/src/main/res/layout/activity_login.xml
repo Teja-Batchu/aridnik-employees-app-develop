@@ -93,7 +93,7 @@
 
             <Button
                 android:textSize="18sp"
-                android:id="@+id/button"
+                android:id="@+id/login_btn"
                 style="@style/Widget.AppCompat.Button.Colored"
                 android:layout_width="fill_parent"
                 android:layout_height="@dimen/_40sdp"

@@ -5,5 +5,7 @@
     <color name="colorAccent">#FFE22020</color>
     <color name="rippelColor">#FFFFFF</color>
     <color name="colorGrey">#C4BEBE</color>
+    <color name="thick_gray">#585858</color>
+    <color name="black">#000000</color>
 
 </resources>
